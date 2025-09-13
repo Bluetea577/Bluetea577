@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-<tr>
-<td valign="top">
 
 🌱 **I'm currently learning:** Python, Rust, TypeScript
 
@@ -24,11 +21,5 @@ Here are some ideas to get you started:
 
 📬 **Let's connect:** [email](mailto:limingyang@stu.jiangnan.edu.cn)
 
-</td>
-<td>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Bluetea577&theme=tokyonight&show_icons=true&show=prs_merged" />
 
-</td>
-</tr>
-</table>
