@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 📬 **Let's connect:** [email](mailto:limingyang@stu.jiangnan.edu.cn)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bluetea577&theme=tokyonight&show_icons=true&show=prs_merged" />
+![Stats](./profile/stats.svg)
 
